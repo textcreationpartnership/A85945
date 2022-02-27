@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Theiopharmakon. A divine potion to preserve spirituall health, by the cure of unnaturall health-drinking. Or An exercise wherein the evill of health-drinking is by clear and solid arguments convinced. Written for the satisfaction, and published by the direction of a godly Parliament-man. / By Jo: Geree, M.A. and pastor of St. Faiths in London.</title>
+            <author>Geree, John, 1601?-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85945</idno>
+            <idno type="STC">Wing G600</idno>
+            <idno type="STC">Thomason E434_15</idno>
+            <idno type="STC">ESTC R206230</idno>
+            <idno type="EEBO-CITATION">99865404</idno>
+            <idno type="PROQUEST">99865404</idno>
+            <idno type="VID">117644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117644)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E434[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Theiopharmakon. A divine potion to preserve spirituall health, by the cure of unnaturall health-drinking. Or An exercise wherein the evill of health-drinking is by clear and solid arguments convinced. Written for the satisfaction, and published by the direction of a godly Parliament-man. / By Jo: Geree, M.A. and pastor of St. Faiths in London.</title>
+                  <author>Geree, John, 1601?-1649.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Latham, at the Signe of the Bishops Head in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word of title in Greek characters.</note>
+                  <note>Annotation on Thomason copy: "April 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Toasts --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117644:1" rendition="simple:additions"/>
+            <p>ΘΕΙΟΦΑΡΜΑΚΟΝ.</p>
+            <p>A DIVINE POTION TO PRESERVE SPIRITUALL HEALTH, by the Cure of unnaturall HEALTH-DRINKING.</p>
+            <p>
+               <hi>OR,</hi> An Exerciſe wherein the evill of <hi>Health-drinking</hi> is by clear and ſolid Argu<g ref="char:EOLhyphen"/>ments convinced.</p>
+            <p>Written for the ſatisfaction, and publiſhed by the direction of a godly <hi>Parliament-Man.</hi>
+            </p>
+            <p>By <hi>Jo: Geree, M. A.</hi> and Paſtor of St. FAITHS In <hi>LONDON.</hi>
+            </p>
+            <q>
+               <bibl>Eſther <hi>1.8.</hi>
+               </bibl>
+               <p>And the drinking was according to Law, none might compell.</p>
+            </q>
+            <q>
+               <p>Nullus in convivio cogat alium plus bibere, quam oportet.</p>
+               <bibl>
+                  <hi>Aug. de rect. Cathol. converſat.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>George Lathum,</hi> at the Signe of the <hi>Biſhops Head</hi> in <hi>Pauls</hi> Church-yard. 1648.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:117644:2"/>
+            <pb facs="tcp:117644:2"/>
+            <head>TO THE VVORSHIPFULL MY WORTHY FRIEND, HUMPHREY SALWAY Eſquire.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough my occaſions are many, yet I cannot be wanting to anſwer ſo pious a motion as that of Yours, to give you my judgement touching Drinking of Healths: deſired, as I ſuppoſe, in re<g ref="char:EOLhyphen"/>lation to a mean for ſuppreſſing that unchriſtian, yea unnaturall cuſtome. A cuſtome which though it deſerve rather <hi>flagella,</hi> then <hi>argumenta.</hi> And is fitter to be expulſt Chriſtian ſociety, (as Chriſt expulſt the Money-changers out of the Temple) with a whip, then with words; it is ſo againſt Natures light. Yet becauſe evill practiſes never want pleas: and penalties are not onely then
+<pb facs="tcp:117644:3"/>moſt juſt, but moſt prevalent to reſtrain, when they are accompanied with Arguments to con<g ref="char:EOLhyphen"/>vince. I ſhall briefly draw up an Indictment againſt this Monſter, wherein I doubt not to evince it in many reſpects unworthy to live in a Common-wealth. But whether it be <hi>billa vera,</hi> I ſhall ſubmit to Your mature judgement: and reſt,</p>
+            <closer>
+               <dateline>From my Study in <hi>Ivy Lane:</hi> 
+                  <date>
+                     <hi>Febr:</hi> 1. 1647.</date>
+               </dateline>
+               <signed>Yours: To ſerve you in any thing tending to the glory of our God: Jo: GEREE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117644:3"/>
+            <head>Q. <hi>VVhether</hi> Drinking of Healths <hi>be Lawfull?</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>S we muſt <hi>diſtinguiſh</hi> before we <hi>define,</hi> ſo muſt we <hi>define</hi> before we <hi>diſpute,</hi> or elſe we cannot conclude with exactneſſe and evidence, but ſhall be in danger to fall into the fallacy <hi>Ex<g ref="char:EOLunhyphen"/>ignoratione elenchi.</hi> Firſt then we are to inquire what an <hi>Health</hi> is. And being it is no naturall, but a civill (or rather uncivill thing) we muſt fetch the defini<g ref="char:EOLhyphen"/>tion of it from the moſt uſuall practiſes of men; and although this monſter appear not alwayes clothed with the ſame circum<g ref="char:EOLhyphen"/>ſtances, yet from thoſe circumſtances which ordinarily are fixt when others are various, we may define it thus.</p>
+            <p>
+               <hi>An Health is a whole cup drunk in relation to the health of ſome per<g ref="char:EOLhyphen"/>ſon uſually abſent, which is to be pledged by all in company with the head uncovered.</hi> The Cup is ſometimes bigger, ſometimes leſſer. The party is ſometimes of better condition, ſometimes of worſe, even ſometimes ſo doth luſt beſet men to the devill himſelf, and brute creatures, &amp;c. It is to be pledged round, ſo that he that begins it not firſt, yet muſt give life to it not onely by drinking himſelf, but paſſing it to another, unleſſe he fall out to be the laſt man. The ceremony is ſometimes of an higher degree, even to kneeling on the knee, the geſture uſed in divine adoration. Now the worſe the circumſtances, the worſe the health. But take it at the beſt, as I have defined it, I judge it unlawfull, that is, ſinfull, leaving guilt upon the perſon acting, as in divers con<g ref="char:EOLhyphen"/>ſiderations tranſgreſſing the Law of God, the rule of our life.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg: </seg>1</label> 
+               <hi>What is againſt nature is unlawfull. To require all in company to drink ſuch a meaſure is againſt nature. Therefore it is unlawfull.</hi> The major is clear for the Law of Nature, is the Law of God, its of Gods im<g ref="char:EOLhyphen"/>printing. And therefore to go againſt that is a ſin, nay not one<g ref="char:EOLhyphen"/>ly<note n="*" place="margin">1 Cor. 11.14.</note> a ſin, but a great degree of ſin, ſhewing not onely want of
+<pb n="2" facs="tcp:117644:4"/>grace, but good nature. The minor I prove. Drinking is an act of Nature to quench thirſt, when then all the company have not the ſame thirſt, to compell all to the ſame meaſure of drinking is not <hi>ſequi naturam ducem, To f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llow the conduct of Nature,</hi> and ſo to ſin againſt Nature. Which may further appear in Brutes, who having not a corrupt will to miſſe-draw Nature, they cannot be compelled to drink what another drinks before them, but onely the more or leſſe as their thirſt is.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label> 
+               <hi>To ſet another end, rule, or uſe of a creature then God hath appointed, is unlawfull. But to compell to drink ſuch a meaſure for the health of an<g ref="char:EOLhyphen"/>other, is to ſet another end, rule, or uſe of drinking then God hath ſet. Er<g ref="char:EOLhyphen"/>go, ſuch compulſion in Healths is unlawfull.</hi> The major is clear. Na<g ref="char:EOLhyphen"/>turall actions are in themſelves neither morally good nor evill, but as they are circumſtanc't. Now the main circumſtances that determine them in morality, muſt be the end and rule of them. When they are conſonant to the Word, we do well in them. When they are diſſonant, we muſt needs offend in them. Now what is Gods end, or uſe of drinking, &amp; eating, but health and ſtrength? <hi>Eccleſ.</hi> 10.17. And what is his meaſure but ſatiſ<g ref="char:EOLhyphen"/>faction? <hi>Joh.</hi> 6.12. But now in health-drinking, another mans health is made the end or uſe of drinking. And another mans humour, (and that uſually very extravagant) the meaſure, without reſpect of our own health, or whether our thirſt be be<g ref="char:EOLhyphen"/>fore quencht or ſatisfied. Nay uſually healthing at Feaſts begins after men be ſatisfied.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>3</label> 
+               <hi>All corrupt cuſtomes, or faſhions of the world, are forbidden Chriſti<g ref="char:EOLhyphen"/>ans, as contrary to the acceptable will of God, and ſo unlawfull. But Health-drinking is a corrupt cuſtome of the world. Therefore it is forbid<g ref="char:EOLhyphen"/>den, ſo unlawfull.</hi> The major is clear: <hi>Rom.</hi> 12.2. <hi>And be not conform<g ref="char:EOLhyphen"/>ed to this world,</hi> &amp;c. What cuſtomes are the iſſue of humour, and fancy irrationall and uſeleſſe. Thoſe muſt needs be corrupt cu<g ref="char:EOLhyphen"/>ſtomes. But ſuch is this cuſtome of drinking healths. What rea<g ref="char:EOLhyphen"/>ſon is there for? what uſe is there of drinking to another mans health? eſpecially in ſuch a meaſure? Is he the healthier for ſuch a draught? or are we the better, and not uſually burthened by it. And is it not irrationall to do a thing for an end, that we know it can have no influence to produce; to do a thing for the health of another, that in that kinde can do him no good, but
+<pb n="3" facs="tcp:117644:4"/>uſually doth the drinkers hurt; If this be not a fruit of wanton fancy, and exorbitant humour, what is?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg: </seg>4</label> 
+               <hi>Infringing other mens just freedome, that have no dependance on us, is unjuſt uſurpation, and ſo both uncivill, and unlawfull. But ſuch an in<g ref="char:EOLhyphen"/>fringing of liberty is in drinking Healths, when all muſt be compelled or ingaged upon pain of cenſure, and ſcorn at leaſt to drink to ſuch a mea<g ref="char:EOLhyphen"/>ſure with ſuch a ceremony. Therefore Health-drinking is unlawfull.</hi> The major is clear. It's a juſt freedom that a man hath from Nature to drink more, or leſſe, as there is need, or uſe; and beſides it is a civill liberty that I ſit, or ſtand, be covered, or uncovered with thoſe on whom I have no dependance. Then for any mean man to ſtart up in a company (as ſuch tricks as Healthing uſually ariſe from thoſe of leaſt worth) and lay an injunction upon all to drink his meaſure, and in his geſture, is malapert ſawcineſſe, and infringing juſt liberty, and ſo uſurpation: and all uſurpa<g ref="char:EOLhyphen"/>tion is a breach of the fifth Commandment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg: </seg>5</label> 
+               <hi>Every voluntary action which alwayes indangers, and often cauſes great inconveniences in ſociety, is unlawfull. But Health-drinking alwayes in<g ref="char:EOLhyphen"/>dangers, and often cauſeth great inconveniences to ſocieties. Therefore it is unlawfull.</hi> The major is clear. For it's a rule in Divinity, <hi>That Commandment that prohibits a ſin, prohibits all the occaſions leading to that ſin.</hi> And its an over-ruled caſe by the Apoſtle, that <hi>liberty in things indifferent may be prejudg'd by inconveniences.</hi> 1 Cor. 8.13. The minor may be proved thus. Healths alwayes indangers among ſtrangers, and often cauſeth quarrels. For if the Health be to a man that deſerves no good wiſhes, neither out of our relations, nor his own qualification, or be ſuch an one, that any of the company hates, or ſcorns to honour, as many times he is, and moſt commonly may be among ſtrangers; then uſually quarrel<g ref="char:EOLhyphen"/>ling, or brawling follows. Again, if there be any, whoſe heads by weakneſſe, or bodies by unhealthineſſe and obnoxiouſneſſe to diſtemper; or though it ſhould be lawfull, yet their conſcien<g ref="char:EOLhyphen"/>ces through weakneſſe ſcruple it All of theſe are caſt upon a tem<g ref="char:EOLhyphen"/>ptation, of diſtempering their heads (whence what evill may not follow?) or indangering their health againſt the eight Com<g ref="char:EOLhyphen"/>mandment: or diſquieting and wounding conſcience, which is both ſin and miſery, <hi>Rom.</hi> 14. <hi>ult. Prov.</hi> 14.14. And in all theſe evils the Health-drinker will be an acceſſary. The laſt of which
+<pb n="4" facs="tcp:117644:5"/>the Apoſtle expreſſeth terribly, <hi>Rom.</hi> 14.15. <hi>But if thy brother be grieved with thy meat (is there not the ſame reaſon of drink) now walkeſt thou not charitably. Deſtroy not him with thy meat</hi> (nor with thy drink) <hi>for whom Chriſt dyed.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>6</label> 
+               <hi>That which is found in experience an apparant cauſe of great waſt of good creatures, and the overflowing of the g<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>evous ſin of drunkenneſſe,</hi> that undoubtedly is to be abandoned Chriſtian ſociety. But Health-drinking is a great waſter, and drawer on of drunken<g ref="char:EOLhyphen"/>neſſe. The major is cleer. All uſeleſſe waſte ſhould be prevented, that frugality we learn from our Saviour, even when creatures were multiplied miraculouſly: <hi>Joh.</hi> 6.12. and all cauſes of drun<g ref="char:EOLhyphen"/>kenneſſe removed. <hi>He that would no evill do, muſt avoid what longs thereto, ſaith our Proverbe.</hi> We are to prevent ſins, not to occaſion them: <hi>Epheſ.</hi> 5.11. <hi>We muſt have no fellowſhip with unfruitfull works of darkneſſe, but reprove them.</hi> Now ſure drunkenneſſe is one of the unfruitfull works of darkneſſe; and how can a man reprove it, and ſet on foot, or keep on foot healthing, which draws it on as with cart-ropes? (to uſe the Prophets phraſe) or how can ſuch quit themſelves from all communion with it, that promote a cuſtome that is ſo direct a cauſe of it? Now that drinking Healths doth cauſe needleſſe waſte of good creatures is appa<g ref="char:EOLhyphen"/>rent: for what a great quantitie of wine, and ſtrong drink do ſuch full meaſures conſume, eſpecially in great companies? and this generally waſted. It being uſually burthenſome, not refreſh<g ref="char:EOLhyphen"/>ing to the company. And what is ſuch a ſhooing-horn to drun<g ref="char:EOLhyphen"/>kenneſſe as this Health-drinking? The great maſters of exceſſe, when the ſober minded would with-draw, what device have they to hold them on till they be inflamed, and ſubject to a wo: <hi>Iſa.</hi> 5.11? but by beginning an Health, and that upon pain of a quarrell, or unkindneſſe at leaſt, they muſt not deny to pledge.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg: </seg>7</label> 
+               <hi>That cuſtome which is condemned in Scripture, and the contrary com<g ref="char:EOLhyphen"/>mended: muſt needs be ſinfull,and unlawfull. But compelling others to drink more then they have a mind to (which is practiſed in Health-drink<g ref="char:EOLhyphen"/>ing) is condemned in Scripture, and the contrary commended. Therefore Health-drinking is unlawfull.</hi> The major is clear, becauſe the Scri<g ref="char:EOLhyphen"/>ptures hold forth to us what is that good, and acceptable will of the Lord. The minor is proved by <hi>Hab.</hi> 2.15. <hi>Wo unto him that giveth his neighbour drink, that putteſt thy bottles to him, and makeſt
+<pb n="5" facs="tcp:117644:5"/>him drunk alſo.</hi> Which words whether they be taken properly, or figuratively, they prove the evill of compelling to drink; for if they be taken metaphorically, yet the metaphor is drawn from compelling to drink, which unleſſe it be vitious, the metaphor wou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d be frigid and non-ſignificant: and though all compul<g ref="char:EOLhyphen"/>ſion in Health-drinking be not to drunkenneſſe or intoxication, yet it is to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xceſſe, which is a ſtep to it, and ſo a ſtep to ſin which is over-ſhoes, though not over-boots, as our Engliſh Proverbe ſpeaks. And as compulſion to drink is condemned, ſo is the con<g ref="char:EOLhyphen"/>trary practice commended in Scripture. <hi>Eſther</hi> 1.8. <hi>And the drink<g ref="char:EOLhyphen"/>ing was according to the law, none might compell: for the King had ap<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inted all the Officers of his houſe that they ſhould do according to every mans pleaſure.</hi> Which whether it were out of love of ſobriety, or to prevent broils in ſo great a meeting, the holy Ghoſt regiſters it with approbation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg: </seg>8</label> 
+               <hi>Such cuſtoms as are Heatheniſh, and unſutable to Chriſtians are to be abandoned Chriſtians ſociety, but ſuch a cuſtom is health-drinking. There<g ref="char:EOLhyphen"/>fore its to be abandoned as ſinfull.</hi> The major may be cleared from that, <hi>Mat:</hi> 6.32. <hi>For after all theſe do the Gentiles ſeeke,</hi> wherein is coucht an argument of diſſalowance, ſo 1 <hi>Theſ.</hi> 4.5. and <hi>Eph.</hi> 5.3, 4. Chriſtians ſhould do nothing which are not convenient for them, or misbecoming Saints. The minor may thus be made good. It was the cuſtome of heathens to drink to their Empe<g ref="char:EOLhyphen"/>rours health, they knew no better: but Chriſtians have the Spi<g ref="char:EOLhyphen"/>rit of <note n="a" place="margin">Zech 12.10.</note> prayer, and are <note n="b" place="margin">1 Tim 2.1, 2</note> taught to pray for their Governours, and friends, and their prayers ye know will promote health of others, not their drinking, and therefore drinking to the health of great ones is heatheniſh, not becoming Chriſtians, which are Saints. Beſides Chriſtianity teaches ſobriety and mortification; 1 <hi>Theſ.</hi> 5.8. <hi>Let us who are of the day be ſober.</hi> So <hi>Titus,</hi> 2.12. And therefore carowſing whole cups is a thing unſeemly for them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>9</label> 
+               <hi>That cuſtom that is no wayes neceſſary, &amp; hath been declaimed againſt by the ancient Fathers reverened on all ſides for piety and learning, is to be abandoned the ſociety of Chriſtians as ſcandalous, and ſo unlawfull. But the cuſtom of Health drinking, drinking ad Equales calices, that is, all that ſame mea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure, hath been declaimed againſt by the ancient fathers.</hi> Therefore to be abandoned as unlawfull. The major few will
+<pb n="6" facs="tcp:117644:6"/>queſtion, the minor is apparant in the writings of the Fathers, but I need not trouble my ſelf nor you with quotations, ſince ye may ſee it abundantly done already by Maſter <hi>Bolton</hi> in his Di<g ref="char:EOLhyphen"/>rection for walking with God, <hi>pa.</hi> 201, 202, 203, 204, 205. and in Maſter <hi>Prinns</hi> Health-ſickneſſe.</p>
+            <p>Thus Sit I have, I hope, made good the indictment againſt Health drinking, proving it many wayes culpable enough to be ejected Chri<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ian ſociety. And yet I have taken healthing at the beſt; whereby the evils cleaving to it are evident to be in in the nature of it, not in the abuſe of it onely. And if at the beſt it be thus many wayes, and in ſuch a degree evill; How abomi<g ref="char:EOLhyphen"/>nable is it in the ordinary practiſe of the roaring crew, where all the evill circumſtances and conſequents of it are raiſed to the height. Yet even this hath round ſome advocates, I will onely take notice of ſuch pleaes as to my reaſon ſeem moſt ſpecious, and apply a brief Anſwer to them.</p>
+            <p>Firſt. <hi>ſome ſay why not aſwell drink to the health of a friend, as remem<g ref="char:EOLhyphen"/>ber a friend in drinking to him?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The reaſon of difference is apparant, for by drinking to him, I do renew the remembrance of him, and manifeſt thereby ſome reſpect to him. But my drinking to the health of another is no way, in no degree conducible to his health.</p>
+            <p>
+               <hi>But it may be replyed under the name health, we intend onely reſpect, and cuſtom hath made healthing a ſigne of reſpect.</hi>
+            </p>
+            <p>
+               <hi>An:</hi> A ſigne it may be made, but a corrupt one, for how can drinking ſuch a meaſure be a good ſigne of reſpect. The reſpect is in the remembrance, and that is done by mentioning him, not by the meaſure. If the meaſure thou drinkeſt beare reſpect to thy friend, then it muſt be in doing ſomthing more then thou are willing, or then thou doeſt to gratifie thy ſelf, and ſo the re<g ref="char:EOLhyphen"/>ſpect ſhall be grounded in exceſſe, which is ſin, beſides why wilt thou ingage others to thy reſpect or thy meaſure, when thou knoweſt not whether they can bear the one or the other.</p>
+            <p>
+               <hi>But ſuppoſe it be but a little glaſſe or cup, that it's likely will hurt no body.</hi>
+            </p>
+            <p>
+               <hi>An:</hi> But therein thou breakeſt the law and rule of the mea<g ref="char:EOLhyphen"/>ſure of drinking, which is ſtrength, and ſatisfaction, not thy humour. 2. There be ſome bodies and braines too, that will be hurt with leaſt exceeding. <hi>Modicum non nocet ſi non ſumatur; A
+<pb n="7" facs="tcp:117644:6"/>little hurts not if it be let alone,</hi> is indeed a truth. Beſides doſt not thou know, that little theeves let in greater, and little thefts make way for greater; ſo do little Healths beſides the evill that is in them, countenance greater, and make way for greater: and therefore keep the ſoles of thy feet out of the water of ſin, for it's bitter water.</p>
+            <p>
+               <hi>But ſuppoſe I force none, is there any evill in it then?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There be divers degrees of forcing. The commands, ex<g ref="char:EOLhyphen"/>pectation, frowns, yea even the example of ſome men, that is, ſuch as are of eminencie either for place, or grace, is in a kinde a compulſion. What elſe is the purport of that charge of St. <hi>Paul</hi> againſt St. <hi>Peter, Gal.</hi> 2.14. <hi>Why compellest thou the Gentiles to live as the Jews? Cogi dicit iſtos apud quos erat tantum authoritatis Petri pon<g ref="char:EOLhyphen"/>dus, ut quicquid ageret praeſcribere caeteris videretur, ſaith</hi> Beza <hi>on the place. Paul ſaith, thoſe were compelled with whom the authority of Peter was of ſuch weight, that his actions were as preſcriptions to the reſt.</hi> And uſually if men do not compell to pledge when they begin healths, yet they frown, or take it not ſo well, at thoſe that pledge not, and that caſts them upon a temptation to wrong ei<g ref="char:EOLhyphen"/>ther health, or conſcience. But if men ſhould leave it abſolutely free, then it looſeth the nature of an Health, and yet cannot eſcape cenſure, becauſe it hath the appearance of evil, and gives countenance to the evil of healthing. It is indeed to healthing like a minced oath to a bloody oath, as Slud, &amp;c. and ſo is not without poyſon in it.</p>
+            <p>But ſome may ſay, <hi>I will not begin Healths, but may I not pledge them, eſpecially if I know the meaſure is not above my ſtrength or need?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If healthing be in it ſelf evil (as I have proved) then muſt thou have no hand in it; remember that down-right charge, <hi>Have no fellowſhip with the unfruitfull works of darkneſſe, but rather re<g ref="char:EOLhyphen"/>prove them. Epheſ.</hi> 5.12. Beſides though thou doſt not begin the Health, yet by pledging thou doſt keep it up, and thereby inga<g ref="char:EOLhyphen"/>geſt thoſe that come after thee to the like practiſe; whoſe need, or ſtrength of body, or brain, if it be not anſwerable to thine, thou occaſioneſt their exceſſe, or hurt in health, or wits: and therefore this plea will not hold.</p>
+            <p>But <hi>what if the Health be to a Superior, it may be to the King, and it may be my loyalty may be queſtioned if I refuſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If Healthing be <hi>in genere malorum, a work of darknes,</hi> as I have ſhewed, then ſurely we may look on it as on the Idolatrous wor<g ref="char:EOLhyphen"/>ſhip
+<pb n="8" facs="tcp:117644:7"/>which the Papiſts perform to deceaſed Saints, wherein they greatly diſhonour them. And were they ſenſible of it they would take it moſt ill; and were they capable of grief, nothing would geieve them more then to think that they were made ſtales to rob God of his due honour;<note place="margin">See St <hi>Auguſt.</hi> de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emp ſeim. 231.232.</note> ſo it is a great diſhonour to King, Parliament, &amp;c. that their names ſhould be made uſe of to the occaſioning, or countenancing of evil, and diſhonouring God by drawing on exceſſe. 2. None can queſtion our loyalty juſtly to any power on earth, for any thing which we refuſe out of inligh<g ref="char:EOLhyphen"/>tened conſcience to the ſupreme power in heaven. 3. We have other wayes to expreſſe our loyalty, to wit, hearty prayers for; and conſcientious ſubjection to thoſe that are in authority.</p>
+            <p>
+               <hi>But I ſhall be ſingular, none elſe refuſeth.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Whether is it better to be involved in the generall cor<g ref="char:EOLhyphen"/>ruption of the world, or with <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ah</hi> to find grace in the eyes of God, and walk with him? <hi>Gen.</hi> 6.8, 9.11.</p>
+            <p>
+               <hi>But I ſhall be ſcoft, and giered at.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Whether is worſe, that men ſcoffe, or God curſe, if thou ſin, God curſeſt? whether is better, the praiſe of men, or the praiſe of God? Sure didſt thou conſider, <hi>Heb</hi> 11.26. <hi>Matt.</hi> 5.11, 12. or 1 <hi>Pet.</hi> 4.14. and many other ſuch places, ſcoffs would not move thee.</p>
+            <p>
+               <hi>But I ſhall be counted uncivill, ill bred, and be caſt out of ſociety.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Whethers worſe, to be counted uncivill, or to be ungodly? or whether is any breeding better then that <hi>Epheſ.</hi> 6.4. <hi>which is in the nurture and admonition of the Lord?</hi> which wil teach us to avoid all ſin. And if thou be counted unworthy ſociety, comfort thy ſelf with this; Thoſe that men caſt out unjuſtly,<note n="*" place="margin">Ioh. 9 35.</note> Chriſt will find. And thoſe that men do ſo reject, God doth moſt prize: and while men count them, not worthy of the world, God counts the world not worthy of them: <hi>Hebr.</hi> 11.38. <hi>Of whom the world was not worthy.</hi>
+            </p>
+            <p>
+               <note place="margin">Et<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amſi ad hoc ver<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etur, ut tibi du<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>etur, aut b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bas <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Aug <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> Temp. 2 32.</hi>
+               </note> 
+               <hi>But what if I be in danger, if I refuſe?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In that caſe thou muſt not deſtroy thy ſoul to ſave thy bo<g ref="char:EOLhyphen"/>dy: and ſin deſtroys the ſoul. Excellently <hi>Auguſtine</hi> on this very point. <hi>Although it were come to this, that it be ſaid to thee, either drink <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> dye, it were better thy ſober body were ſlain, then that thy ſoul ſhould dye by arm kenneſſe.</hi> Put withall <hi>this is for the moſt part (as Auguſtine fur<g ref="char:EOLhyphen"/>ther inlarges his anſwer) a falſe fear, for when mens heat is over, they will <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy reſolution and care to keep a good conſcience.</hi> Caſt thy ſelf ther<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore on God, truſt in him, and ke<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p in his way, and he will keep thee as the apple of his eye. To him be glory forever.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
